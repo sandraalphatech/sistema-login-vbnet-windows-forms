@@ -58,13 +58,31 @@ Ferramenta para conversão de temperaturas entre:
 ## Estrutura do projeto
 
 ```text
+## Estrutura do projeto
+
+```text
 SistemaLogin/
-├── My Project/
+├── Recursos/
 │
-├── FormLogin
-├── FormDashboard
-├── FormCalculadora
-├── FormConversor
+├── App.config
+├── ApplicationEvents.vb
 │
-├── Classes e componentes auxiliares
-└── SistemaLogin.vbproj
+├── Conversor.vb
+├── Conversor.Designer.vb
+├── Conversor.resx
+│
+├── Login.vb
+├── Login.Designer.vb
+├── Login.resx
+│
+├── dash.vb
+├── dash.Designer.vb
+├── dash.resx
+│
+├── Form1.vb
+├── Form1.Designer.vb
+├── Form1.resx
+│
+├── RoundButton.vb
+├── RoundPanel.vb
+└── RoundPictureBox.vb
